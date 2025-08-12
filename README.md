@@ -5,6 +5,6 @@ I can land a job in the near future.
 
 ## Journey so far
 
-![alt text](images/image.png)
-![alt text](images/image-1.png)
-![alt text](images/image-2.png)
+![alt text](final-first-step/images/image.png)
+![alt text](final-first-step/images/image-1.png)
+![alt text](final-first-step/images/image-2.png)
